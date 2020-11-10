@@ -6,7 +6,7 @@
  * @target MZ
  * @plugindesc Add icons for the hero classes.
  * @author Takkun
- * @url https://
+ * @url https://github.com/LeonneBrito/mz-plugins/blob/main/TK-ClassIcon.js
  *
  * @help
  * ===========================================================================
